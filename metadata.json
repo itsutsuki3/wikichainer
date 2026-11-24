@@ -1,0 +1,8 @@
+{
+  "name": "Wiki-Chainer: Associative Journey",
+  "description": "An AI-powered exploratory tool that takes you on a 20-step random walk through Wikipedia articles starting from a single word, weaving a narrative out of the seemingly random connections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
